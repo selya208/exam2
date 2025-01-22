@@ -1,0 +1,73 @@
+.bg-image-1 {
+    background-image: url('../img/banner-bg.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+.bg-image-2 {
+    background-image: url('../img/river-flowing-through-forest-generative-al2-min.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bg-image-3 {
+    background-image: url('../img/t5.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-4 {
+    background-image: url('../img/gfgfggfggg-min.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.bg-brown-light {
+    background-color: #A5966F;
+}
+
+.bg-pink{
+   background-color: rgb(244, 203, 252);
+}
+
+p i {
+    color: #A5966F;
+    font-size: 20px;
+}
+
+.bg-purple{
+    background-color: rgb(123, 78, 245);
+}
+.bg-pink1{
+    background-color: #deccffe7;
+}
+.bg-gray{
+    background-color: #d8d6d6;
+}
+.text-blue{
+    color: rgba(71, 166, 255, 0.89);
+}
+.text-purple{
+    color: rgb(255, 0, 212);
+}
+.btn-border-pink {
+    border-color: purple;
+    background-color: rgb(255, 255, 255);
+}
+.border-purple{
+    border-color: rgba(240, 20, 240, 0.925);
+}
+.bg-grey{
+    background-color: #e7e7e7;
+}
